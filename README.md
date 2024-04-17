@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Yo](https://github-readme-stats.vercel.app/api?username=oreo10baht)](https://github.com/oreo10baht/github-readme-stats)
 <!--
 **oreo10baht/oreo10baht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
